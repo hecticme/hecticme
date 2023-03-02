@@ -1,5 +1,9 @@
-### Hi there 👋
+![Banner Image](https://github.com/hecticme/hecticme/blob/main/github-profile-banner.png)
 
+### Hi there 👋
+---
+I am a Front-end Developer with a UI/UX design background. 
+You can find more about me at 👉 https://hecticme.pages.dev/
 <!--
 **hecticme/hecticme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
