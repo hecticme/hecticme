@@ -1,20 +1,9 @@
-![Banner Image](https://github.com/hecticme/hecticme/blob/main/github-profile-banner.png)
+![github-banner](https://github.com/hecticme/hecticme/assets/110041780/0203fc1c-0dd6-4e0f-98fd-3de46fa813e0)
 
-### Hi there 👋
----
-I am a Front-end Developer with a UI/UX design background. 
-You can find more about me at 👉 https://hecticme.pages.dev/
-<!--
-**hecticme/hecticme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+  Hi there 🚲️
+</h3>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  Have a nice day! I'm going to sleep.
+</p>
