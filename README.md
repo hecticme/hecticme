@@ -1,3 +1,1 @@
-👾
-
-I use work as a distraction from everything else.
+Surely this can't be empty.
